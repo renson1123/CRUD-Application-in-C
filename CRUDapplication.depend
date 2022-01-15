@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639640367 source:d:\codeblocks source codes\crudapplication\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1639665974 source:d:\codeblocks source codes\crudapplication\rplacinocrudapplication.c
+	<stdio.h>
+
